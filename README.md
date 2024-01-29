@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @chhatrapal singh(Data Analyst)
+# 👋 Hi, I’m CHHATRA PAL SINGH (Data Analyst)
 # About Me:
 💬 Ask me about Excel, MS SQL, Python, Power BI, Statistics, ML, Mathematics, Operations Research 
 
